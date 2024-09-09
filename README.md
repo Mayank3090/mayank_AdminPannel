@@ -2,35 +2,35 @@ Admin Panel
 Project Overview
 This project is a backend application designed for managing and interacting with admin, manager and employee data. It includes functionalities for user authentication, project management, and employee assignment.
 
-Table of Contents
-Technologies Used
-Setup Instructions
-API Endpoints
-Postman Testing
-Contributing
+Table of Contents:
+Technologies Used, 
+Setup Instructions, 
+API Endpoints, 
+Postman Testing, 
+Contributing 
 
-Technologies Used
-Node.js
-Express
-Sequelize (ORM for PostgreSQL)
-PostgreSQL
-Bcrypt for password hashing
-JWT for authentication
-Setup Instructions
-Clone the Repository:
+Technologies Used:
+Node.js, 
+Express, 
+Sequelize (ORM for PostgreSQL), 
+PostgreSQL, 
+Bcrypt for password hashing, 
+JWT for authentication, 
+Setup Instructions, 
+Clone the Repository: 
 
 bash
-Copy code
+Copy code: 
 git clone https://github.com/your-username/mayank-admin-panel.git
 Navigate to the Project Directory:
 
 bash
-Copy code
+Copy code: 
 cd mayank-admin-panel
 Install Dependencies:
 
 bash
-Copy code
+Copy code: 
 npm install
 Set Up Environment Variables:
 
@@ -38,19 +38,19 @@ Create a .env file in the root directory and add the following variables:
 
 env
 Copy code
-PORT=3033
-DATABASE_URL=your-database-url
-JWT_SECRET=your-jwt-secret
-NODE_ENV=production
-Run Migrations:
+PORT=3033 
+DATABASE_URL=your-database-url 
+JWT_SECRET=your-jwt-secret 
+NODE_ENV=production 
+Run Migrations: 
 
 bash
-Copy code
+Copy code: 
 npx sequelize-cli db:migrate
 Start the Application:
 
 bash
-Copy code
+Copy code: 
 npm start
 API Endpoints
 Authentication
