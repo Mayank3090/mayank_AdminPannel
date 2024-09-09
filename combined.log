@@ -1,0 +1,22 @@
+{"level":"info","message":"Server running on port 3033","timestamp":"2024-09-08T14:10:16.194Z"}
+{"level":"info","message":"Server running on port 3033","timestamp":"2024-09-08T14:18:44.293Z"}
+{"level":"info","message":"Server running on port 3033","timestamp":"2024-09-08T14:19:30.005Z"}
+{"level":"info","message":"Server running on port 3033","timestamp":"2024-09-08T14:47:41.792Z"}
+{"level":"info","message":"Server running on port 3033","timestamp":"2024-09-08T14:47:56.960Z"}
+{"level":"info","message":"Server running on port 3033","timestamp":"2024-09-08T14:48:28.130Z"}
+{"level":"info","message":"Server running on port 3033","timestamp":"2024-09-08T15:00:03.089Z"}
+{"level":"info","message":"Server running on port 3033","timestamp":"2024-09-08T15:00:32.353Z"}
+{"level":"info","message":"Server running on port 3033","timestamp":"2024-09-08T15:02:38.746Z"}
+{"level":"info","message":"Server running on port 3033","timestamp":"2024-09-08T16:28:45.109Z"}
+{"level":"info","message":"Server running on port 3033","timestamp":"2024-09-08T17:21:23.130Z"}
+{"level":"info","message":"Server running on port 3033","timestamp":"2024-09-09T06:21:12.888Z"}
+{"level":"info","message":"Server running on port 3033","timestamp":"2024-09-09T11:30:24.084Z"}
+{"level":"info","message":"Server running on port 3033","timestamp":"2024-09-09T11:33:52.264Z"}
+{"level":"info","message":"Server running on port 3033","timestamp":"2024-09-09T11:44:36.763Z"}
+{"level":"info","message":"Server running on port 3033","timestamp":"2024-09-09T11:44:48.862Z"}
+{"body":"{\r\n  \"employeeId\": f173ccb7-b80f-486b-9710-9c3962e51f74\r\n}\r\n","expose":true,"level":"error","status":400,"statusCode":400,"timestamp":"2024-09-09T12:47:29.453Z","type":"entity.parse.failed"}
+{"body":"{\r\n  \"employeeId\": \"f173ccb7-b80f-486b-9710-9c3962e51f74\";\r\n}\r\n","expose":true,"level":"error","status":400,"statusCode":400,"timestamp":"2024-09-09T12:51:18.100Z","type":"entity.parse.failed"}
+{"level":"info","message":"Server running on port 3033","timestamp":"2024-09-09T13:17:01.787Z"}
+{"level":"info","message":"Server running on port 3033","timestamp":"2024-09-09T13:21:28.730Z"}
+{"level":"info","message":"Server running on port 3033","timestamp":"2024-09-09T13:22:17.120Z"}
+{"level":"info","message":"Server running on port 3033","timestamp":"2024-09-09T14:16:26.451Z"}

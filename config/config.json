@@ -1,0 +1,41 @@
+{
+  "development": {
+    "username": "admin_fl5w_user",
+    "password": "MoFd9y57ESvyriwviT2EJc5iXv3gUc9C",
+    "database": "admin_fl5w",
+    "host": "dpg-creq5mqj1k6c73dfc1i0-a.oregon-postgres.render.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  },
+  "test": {
+    "username": "admin_fl5w_user",
+    "password": "MoFd9y57ESvyriwviT2EJc5iXv3gUc9C",
+    "database": "admin_fl5w",
+    "host": "dpg-creq5mqj1k6c73dfc1i0-a.oregon-postgres.render.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  },
+  "production": {
+    "username": "admin_fl5w_user",
+    "password": "MoFd9y57ESvyriwviT2EJc5iXv3gUc9C",
+    "database": "admin_fl5w",
+    "host": "dpg-creq5mqj1k6c73dfc1i0-a.oregon-postgres.render.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  }
+}
